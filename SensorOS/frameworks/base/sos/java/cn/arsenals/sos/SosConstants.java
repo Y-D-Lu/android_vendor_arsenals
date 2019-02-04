@@ -8,5 +8,9 @@ public class SosConstants {
         public static final String ACTION = "cn.arsenals.sos.kastro.CAST_START";
         public static final String ARGS = "args";
     }
+
+    public class MagicDisplay {
+        public static final String MAGIC_DISPLAY_NAME = "sensor display";
+    }
 }
 
