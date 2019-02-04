@@ -1,0 +1,10 @@
+// Build the Sensor OS library.
+
+java_library {
+    name: "sos",
+    dxflags: ["--core-library"],
+    srcs: [
+        "**/*.java",
+    ],
+}
+
