@@ -17,8 +17,8 @@ public class SosConstants {
     }
 
     public class SensorLauncher {
-        public static String PACKAGE_NAME = "cn.arsenals.sensor_launcher";
-        public static String LAUNCHER_CLASS_NAME = "com.google.android.apps.nexuslauncher.NexusLauncherActivity";
+        public static final String PACKAGE_NAME = "cn.arsenals.sensor_launcher";
+        public static final String LAUNCHER_CLASS_NAME = "com.google.android.apps.nexuslauncher.NexusLauncherActivity";
     }
 }
 
