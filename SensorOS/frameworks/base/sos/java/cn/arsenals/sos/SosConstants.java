@@ -11,9 +11,6 @@ public class SosConstants {
 
     public class MagicDisplay {
         public static final String MAGIC_DISPLAY_NAME = "sensor display";
-        public static final int WIDTH = 1080;
-        public static final int HEIGHT = 1920;
-        public static final int DPI = 320;
     }
 
     public class SensorLauncher {
